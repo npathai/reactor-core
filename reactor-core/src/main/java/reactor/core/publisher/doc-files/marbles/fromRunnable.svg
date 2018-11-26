@@ -1,392 +1,80 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   version="1.1"
-   viewBox="20 79 363.15812 233.52225"
-   width="363.15811"
-   height="233.52225"
-   id="svg73"
-   sodipodi:docname="fromRunnable.svg"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
-  <metadata
-     id="metadata16245">
-    <rdf:RDF>
-      <cc:Work
-         rdf:about="">
-        <dc:format>image/svg+xml</dc:format>
-        <dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
-      </cc:Work>
-    </rdf:RDF>
-  </metadata>
-  <sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
-     id="namedview16243"
-     showgrid="false"
-     fit-margin-top="5"
-     fit-margin-left="5"
-     fit-margin-right="5"
-     fit-margin-bottom="5"
-     inkscape:current-layer="svg73" />
-  <defs
-     id="defs16">
-    <font-face
-       font-family="'Tahoma','Nimbus Sans L'"
-       font-size="24"
-       panose-1="2 11 5 2 2 1 4 2 2 3"
-       units-per-em="1000"
-       underline-position="-75"
-       underline-thickness="50"
-       slope="0"
-       x-height="450"
-       cap-height="687"
-       ascent="918"
-       descent="-230"
-       font-weight="400"
-       id="font-face2"
-       stemv="0"
-       stemh="0"
-       accent-height="0"
-       ideographic="0"
-       alphabetic="0"
-       mathematical="0"
-       hanging="0"
-       v-ideographic="0"
-       v-alphabetic="0"
-       v-mathematical="0"
-       v-hanging="0"
-       strikethrough-position="0"
-       strikethrough-thickness="0"
-       overline-position="0"
-       overline-thickness="0">
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="20 79 363 234" width="363" height="234" id="svg73">
+  <defs id="defs16">
+    <font-face font-family="'Tahoma','Nimbus Sans L'" font-size="24" panose-1="2 11 5 2 2 1 4 2 2 3" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="450" cap-height="687" ascent="918" descent="-230" font-weight="400" id="font-face2" stemv="0" stemh="0" accent-height="0" ideographic="0" alphabetic="0" mathematical="0" hanging="0" v-ideographic="0" v-alphabetic="0" v-mathematical="0" v-hanging="0" strikethrough-position="0" strikethrough-thickness="0" overline-position="0" overline-thickness="0">
       <font-face-src>
-        <font-face-name
-           name="Tahoma" />
+        <font-face-name name="Tahoma"/>
       </font-face-src>
     </font-face>
-    <marker
-       orient="auto"
-       overflow="visible"
-       markerUnits="strokeWidth"
-       id="FilledArrow_Marker"
-       stroke-miterlimit="10"
-       viewBox="-1 -5 11 10"
-       markerWidth="11"
-       markerHeight="10"
-       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
-      <g
-         id="g6">
-        <path
-           d="M 8,0 0,-3 v 6 z"
-           id="path4"
-           inkscape:connector-curvature="0"
-           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-miterlimit="10" viewBox="-1 -5 11 10" markerWidth="11" markerHeight="10" color="#34302c" stroke-linejoin="miter">
+      <g id="g6">
+        <path d="M8 0L0-3v6z" id="path4" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <font-face
-       font-family="'Tahoma','Nimbus Sans L'"
-       font-size="24"
-       panose-1="2 11 9 2 3 0 4 2 2 3"
-       units-per-em="1000"
-       underline-position="-75"
-       underline-thickness="50"
-       slope="0"
-       x-height="501"
-       cap-height="682"
-       ascent="923"
-       descent="-235"
-       font-weight="700"
-       id="font-face9"
-       stemv="0"
-       stemh="0"
-       accent-height="0"
-       ideographic="0"
-       alphabetic="0"
-       mathematical="0"
-       hanging="0"
-       v-ideographic="0"
-       v-alphabetic="0"
-       v-mathematical="0"
-       v-hanging="0"
-       strikethrough-position="0"
-       strikethrough-thickness="0"
-       overline-position="0"
-       overline-thickness="0">
+    <font-face font-family="'Tahoma','Nimbus Sans L'" font-size="24" panose-1="2 11 9 2 3 0 4 2 2 3" units-per-em="1000" underline-position="-75" underline-thickness="50" slope="0" x-height="501" cap-height="682" ascent="923" descent="-235" font-weight="700" id="font-face9" stemv="0" stemh="0" accent-height="0" ideographic="0" alphabetic="0" mathematical="0" hanging="0" v-ideographic="0" v-alphabetic="0" v-mathematical="0" v-hanging="0" strikethrough-position="0" strikethrough-thickness="0" overline-position="0" overline-thickness="0">
       <font-face-src>
-        <font-face-name
-           name="Tahoma-Bold" />
+        <font-face-name name="Tahoma-Bold"/>
       </font-face-src>
     </font-face>
-    <marker
-       orient="auto"
-       overflow="visible"
-       markerUnits="strokeWidth"
-       id="FilledArrow_Marker_2"
-       stroke-miterlimit="10"
-       viewBox="-1 -6 14 12"
-       markerWidth="14"
-       markerHeight="12"
-       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
-      <g
-         id="g13">
-        <path
-           d="M 12,0 0,-4 v 9 z"
-           id="path11"
-           inkscape:connector-curvature="0"
-           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-miterlimit="10" viewBox="-1 -6 14 12" markerWidth="14" markerHeight="12" color="#34302c" stroke-linejoin="miter">
+      <g id="g13">
+        <path d="M12 0L0-4v9z" id="path11" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <marker
-       orient="auto"
-       overflow="visible"
-       markerUnits="strokeWidth"
-       id="FilledArrow_Marker-3"
-       stroke-miterlimit="10"
-       viewBox="-1 -6 14 12"
-       markerWidth="14"
-       markerHeight="12"
-       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
-      <g
-         id="g6-6">
-        <path
-           d="M 12,0 0,-4 v 9 z"
-           id="path4-7"
-           inkscape:connector-curvature="0"
-           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker-3" stroke-miterlimit="10" viewBox="-1 -6 14 12" markerWidth="14" markerHeight="12" color="#34302c" stroke-linejoin="miter">
+      <g id="g6-6">
+        <path d="M12 0L0-4v9z" id="path4-7" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <marker
-       orient="auto"
-       overflow="visible"
-       markerUnits="strokeWidth"
-       id="FilledArrow_Marker_2-5"
-       stroke-miterlimit="10"
-       viewBox="-1 -5 11 10"
-       markerWidth="11"
-       markerHeight="10"
-       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
-      <g
-         id="g11">
-        <path
-           d="M 8,0 0,-3 v 6 z"
-           id="path9"
-           inkscape:connector-curvature="0"
-           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2-5" stroke-miterlimit="10" viewBox="-1 -5 11 10" markerWidth="11" markerHeight="10" color="#34302c" stroke-linejoin="miter">
+      <g id="g11">
+        <path d="M8 0L0-3v6z" id="path9" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <marker
-       orient="auto"
-       overflow="visible"
-       markerUnits="strokeWidth"
-       id="marker970"
-       stroke-miterlimit="10"
-       viewBox="-1 -5 11 10"
-       markerWidth="11"
-       markerHeight="10"
-       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
-      <g
-         id="g968">
-        <path
-           d="M 8,0 0,-3 v 6 z"
-           id="path966"
-           inkscape:connector-curvature="0"
-           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="marker970" stroke-miterlimit="10" viewBox="-1 -5 11 10" markerWidth="11" markerHeight="10" color="#34302c" stroke-linejoin="miter">
+      <g id="g968">
+        <path d="M8 0L0-3v6z" id="path966" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <marker
-       orient="auto"
-       overflow="visible"
-       markerUnits="strokeWidth"
-       id="marker976"
-       stroke-miterlimit="10"
-       viewBox="-1 -6 14 12"
-       markerWidth="14"
-       markerHeight="12"
-       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
-      <g
-         id="g974">
-        <path
-           d="M 12,0 0,-4 v 9 z"
-           id="path972"
-           inkscape:connector-curvature="0"
-           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="marker976" stroke-miterlimit="10" viewBox="-1 -6 14 12" markerWidth="14" markerHeight="12" color="#34302c" stroke-linejoin="miter">
+      <g id="g974">
+        <path d="M12 0L0-4v9z" id="path972" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
-    <marker
-       style="overflow:visible"
-       orient="auto"
-       refY="0"
-       refX="0"
-       id="Arrow2Lend-62-2"
-       overflow="visible">
-      <path
-         style="fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linejoin:round;stroke-opacity:1"
-         inkscape:connector-curvature="0"
-         id="path5247-2-7"
-         d="M -11,-4 1,0 -11,4 c 2,-2 2,-6 0,-8 z" />
+    <marker orient="auto" refY="0" refX="0" id="Arrow2Lend-62-2" overflow="visible">
+      <path id="path5247-2-7" d="M-11-4L1 0l-12 4c2-2 2-6 0-8z" fill="#000" fill-opacity="1" fill-rule="evenodd" stroke="#000" stroke-width="1" stroke-linejoin="round" stroke-opacity="1"/>
     </marker>
-    <marker
-       style="color:#45b8de;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10"
-       orient="auto"
-       overflow="visible"
-       markerUnits="strokeWidth"
-       id="FilledArrow_Marker_3-3"
-       stroke-miterlimit="10"
-       viewBox="-1 -5 11 10"
-       markerWidth="11"
-       markerHeight="10">
-      <g
-         id="g18-6">
-        <path
-           style="fill:currentColor;stroke:currentColor;stroke-width:1"
-           inkscape:connector-curvature="0"
-           d="M 8,0 0,-3 v 6 z"
-           id="path16-7" />
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_3-3" stroke-miterlimit="10" viewBox="-1 -5 11 10" markerWidth="11" markerHeight="10" color="#45b8de" stroke-linejoin="miter">
+      <g id="g18-6">
+        <path d="M8 0L0-3v6z" id="path16-7" fill="currentColor" stroke="currentColor" stroke-width="1"/>
       </g>
     </marker>
   </defs>
-  <path
-     d="M 39.579427,85 H 362.41847 l 0.63676,1.108697 V 189.77258 l -0.63676,1.10871 H 39.579427 l -0.636756,-1.10871 V 86.108697 Z"
-     id="path38-4"
-     inkscape:connector-curvature="0"
-     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="line52"
-     d="M 26.014242,283.60854 H 351.30821"
-     inkscape:connector-curvature="0"
-     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker-3)" />
-  <path
-     id="path70"
-     d="m 262.95966,259.52225 h 1 l 2,2 v 44 l -2,2 h -1 l -2,-2 v -44 z"
-     inkscape:connector-curvature="0"
-     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1" />
-  <path
-     id="line83-5"
-     d="m 262.95966,191.58456 0.36643,43.13637"
-     inkscape:connector-curvature="0"
-     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.00000002, 6.00000006;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_2-5)"
-     sodipodi:nodetypes="cc" />
-  <text
-     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-     id="text41"
-     x="-213.04034"
-     y="99.522247">
-    <tspan
-       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c"
-       font-size="24"
-       font-weight="700"
-       x="45.95966"
-       y="121.52225"
-       id="tspan39">fromRunnable (</tspan>
+  <path d="M40 85h322l1 1v104l-1 1H40l-1-1V86z" id="path38-4" fill="#fff" fill-opacity="1" stroke="#34302c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1"/>
+  <path id="line52" d="M26 284h325" fill="none" fill-opacity="1" stroke="#34302c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1" marker-end="url(#FilledArrow_Marker-3)"/>
+  <path id="path70" d="M263 260h1l2 2v44l-2 2h-1l-2-2v-44z" fill="#34302c" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1"/>
+  <path id="line83-5" d="M263 192v43" fill="none" fill-opacity="1" stroke="#34302c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="2.00000002,6.00000006" stroke-opacity="1" marker-end="url(#FilledArrow_Marker_2-5)"/>
+  <text id="text41" x="-213" y="100" fill="#34302c" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
+    <tspan font-size="24" font-weight="700" x="46" y="122" id="tspan39" font-family="Tahoma,'Nimbus Sans L'" fill="#34302c">fromRunnable (</tspan>
   </text>
-  <text
-     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-     y="99.522247"
-     x="80.959656"
-     id="text896">
-    <tspan
-       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c"
-       id="tspan894"
-       y="121.52225"
-       x="339.95966"
-       font-weight="700"
-       font-size="24">)</tspan>
+  <text y="100" x="81" id="text896" fill="#34302c" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
+    <tspan id="tspan894" y="122" x="340" font-weight="700" font-size="24" font-family="Tahoma,'Nimbus Sans L'" fill="#34302c">)</tspan>
   </text>
-  <text
-     y="99.417877"
-     x="-19.814444"
-     id="text1940-9-8"
-     style="font-size:12px;fill:#34302c;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none">
-    <tspan
-       id="tspan1938-8-8"
-       y="121.41787"
-       x="240.18558"
-       font-weight="400"
-       font-size="24"
-       style="font-weight:400;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;stroke-width:0.99999994">()</tspan>
+  <text y="99" x="-20" id="text1940-9-8" font-size="12" fill="#34302c" fill-opacity="1" stroke="none" stroke-width="1" stroke-dasharray="none">
+    <tspan id="tspan1938-8-8" y="121" x="240" font-weight="400" font-size="24" font-family="Tahoma,'Nimbus Sans L'" fill="#34302c" stroke-width="1">()</tspan>
   </text>
-  <path
-     id="path4954-7-5"
-     d="m 263.18556,113.41786 h 39"
-     inkscape:connector-curvature="0"
-     style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.99999994;stroke-linecap:butt;stroke-linejoin:miter;marker-end:url(#Arrow2Lend-62-2)" />
-  <text
-     style="font-size:12px;fill:#34302c;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none"
-     id="text1940-9-4-3"
-     x="48.587414"
-     y="98.455345">
-    <tspan
-       style="font-weight:400;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;stroke-width:0.99999994"
-       font-size="24"
-       font-weight="400"
-       x="308.58743"
-       y="120.4554"
-       id="tspan1938-8-4-7">{ }</tspan>
+  <path id="path4954-7-5" d="M263 113h39" fill="none" fill-rule="evenodd" stroke="#000" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" marker-end="url(#Arrow2Lend-62-2)"/>
+  <text id="text1940-9-4-3" x="49" y="98" font-size="12" fill="#34302c" fill-opacity="1" stroke="none" stroke-width="1" stroke-dasharray="none">
+    <tspan font-size="24" font-weight="400" x="309" y="120" id="tspan1938-8-4-7" font-family="Tahoma,'Nimbus Sans L'" fill="#34302c" stroke-width="1">{ }</tspan>
   </text>
-  <path
-     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     inkscape:connector-curvature="0"
-     id="path21888"
-     d="m 176.9142,135.95318 h 83.34996 v 52.92141 H 176.9142 l -0.29982,-0.72996 v -51.4615 z" />
-  <text
-     style="font-size:12px;fill:#34302c;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none"
-     id="text1940-9-4-3-7"
-     x="-81.856949"
-     y="146.78258">
-    <tspan
-       style="font-weight:400;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;stroke-width:0.99999994"
-       font-size="24"
-       font-weight="400"
-       x="178.1431"
-       y="168.78264"
-       id="tspan1938-8-4-7-9">{</tspan>
+  <path id="path21888" d="M177 136h83v53h-83v-52z" fill="#fff" fill-opacity="1" stroke="#34302c" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1"/>
+  <text id="text1940-9-4-3-7" x="-82" y="147" font-size="12" fill="#34302c" fill-opacity="1" stroke="none" stroke-width="1" stroke-dasharray="none">
+    <tspan font-size="24" font-weight="400" x="178" y="169" id="tspan1938-8-4-7-9" font-family="Tahoma,'Nimbus Sans L'" fill="#34302c" stroke-width="1">{</tspan>
   </text>
-  <path
-     inkscape:connector-curvature="0"
-     style="fill:none;fill-opacity:1;stroke:#45b8de;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.99999994, 5.99999987;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_3-3)"
-     id="line2554"
-     d="m 177.32171,280.77759 -1,-69.97139" />
-  <text
-     style="fill:#45b8de;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1"
-     y="152.42101"
-     x="-281.37207"
-     transform="rotate(-90)"
-     id="text2562">
-    <tspan
-       style="font-weight:400;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';fill:#45b8de"
-       font-size="14"
-       font-weight="400"
-       x="-281.37207"
-       y="165.42101"
-       id="tspan2556">subscribe()</tspan>
+  <path id="line2554" d="M177 281l-1-70" fill="none" fill-opacity="1" stroke="#45b8de" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.99999994,5.99999987" stroke-opacity="1" marker-end="url(#FilledArrow_Marker_3-3)"/>
+  <text y="152" x="-281" transform="rotate(-90)" id="text2562" fill="#45b8de" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
+    <tspan font-size="14" font-weight="400" x="-281" y="165" id="tspan2556" font-family="Tahoma,'Nimbus Sans L'" fill="#45b8de">subscribe()</tspan>
   </text>
-  <text
-     y="146.78258"
-     x="-13.856945"
-     id="text102140"
-     style="font-size:12px;fill:#34302c;fill-opacity:1;stroke:none;stroke-width:0.99999994;stroke-dasharray:none">
-    <tspan
-       id="tspan102138"
-       y="168.78264"
-       x="246.1431"
-       font-weight="400"
-       font-size="24"
-       style="font-weight:400;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;stroke-width:0.99999994">}</tspan>
+  <text y="147" x="-14" id="text102140" font-size="12" fill="#34302c" fill-opacity="1" stroke="none" stroke-width="1" stroke-dasharray="none">
+    <tspan id="tspan102138" y="169" x="246" font-weight="400" font-size="24" font-family="Tahoma,'Nimbus Sans L'" fill="#34302c" stroke-width="1">}</tspan>
   </text>
 </svg>
