@@ -21,6 +21,8 @@ The recommended workflow for editing or contributing new SVG marble diagrams is 
 All `*.svg` marble diagrams are found in `/reactor-core/src/main/java/reactor/core/publisher/doc-files/marbles/` folder.
 This same folder will be embedded in the `-sources.jar` and `-javadoc.jar` artifacts.
 
+Note that there is a `conventions.svg` document that regroups the different graphical conventions for representing recurrent elements of marbles (static operator vs method operator, blocking, timeouts, lambdas, etc...).
+
 ### Optimizing the SVG files
 
 We want the SVG size to be kept as small and clutter-free as possible, as the images are embedded in the source and javadoc jars.
