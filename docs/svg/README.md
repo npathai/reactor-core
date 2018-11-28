@@ -67,3 +67,8 @@ This needs a re-login and has the unfortunate effect that the menu bar will now 
 #### Inkscape is slow as hell to open and close documents
  - Try closing all but one document, then close every tool dialog and restart Inkscape
  - In Preferences, you can try playing with `Rendering` options: number of thread, cache size, display filters quality.
+
+### How to reduce a rounded rectangle (buffers)
+Double click on the rectangle and select the top left corner (square handle).
+Hold Ctrl (or Cmd) to only move horizontally, and move the handler closer to where you want it.
+Repeat the same operation with the bottom-right handle.
