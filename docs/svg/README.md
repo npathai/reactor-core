@@ -39,7 +39,7 @@ So the recommended configuration for optimizing is as follows:
  - Use the following command from the repo root to maintain arrowheads and pretty printing while optimizing the SVGs correctly:
  
 ```sh
-svgo --input="reactor-core/src/main/java/reactor/core/publisher/doc-files/marbles/reduce.svg" --multipass --pretty --indent=2 --precision=0 --disable={cleanupIDs,removeNonInheritableGroupAttrs}
+svgo --input="reactor-core/src/main/java/reactor/core/publisher/doc-files/marbles/reduce.svg" --multipass --pretty --indent=1 --precision=2 --disable={cleanupIDs,removeNonInheritableGroupAttrs,removeViewBox,convertShapeToPath}
 ```
 
 TIP: you can use git to stage the file pre-optimization, check it renders correctly post-optimization and revert using `git checkout path/to/file.svg` if that is not the case.
@@ -47,7 +47,7 @@ TIP: you can use git to stage the file pre-optimization, check it renders correc
 Alternatively, to optimize a whole folder into a temporary folder for comparison, use the `--folder` and `--output` options:
 
 ```sh
-svgo --folder="reactor-core/src/main/java/reactor/core/publisher/doc-files/marbles/" --multipass --pretty --indent=2 --precision=0 --disable={cleanupIDs,removeNonInheritableGroupAttrs} --output=/tmp/svg/ --quiet
+svgo --folder="reactor-core/src/main/java/reactor/core/publisher/doc-files/marbles/" --multipass --pretty --indent=1 --precision=2 --disable={cleanupIDs,removeNonInheritableGroupAttrs,removeViewBox,convertShapeToPath} --output=/tmp/svg/ --quiet
 ```
 
 ### Optimization Tips and Tricks
