@@ -2264,16 +2264,6 @@
        font-family="Tahoma,'Nimbus Sans L'"
        fill="#34302c">)</tspan>
   </text>
-  <circle
-     id="ellipse134155"
-     cy="38"
-     cx="400"
-     r="17"
-     fill="#6cb33e"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
   <path
      d="M400 56l-1 237"
      id="path134159"
