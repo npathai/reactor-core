@@ -77,24 +77,24 @@
  </text>
  <circle r="23" id="ellipse42" cy="55" cx="185" fill="#fff" fill-opacity="1" stroke="#34302c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1"/>
  <path id="rect97769" opacity="1" fill="#fff" fill-opacity="1" stroke="#000" stroke-width="2" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" d="M62 294h138v28H62z"/>
- <path id="rect97776" opacity="1" fill="#797979" fill-opacity="1" stroke="none" stroke-width="1" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" d="M62 294h48v28H62z"/>
- <text y="300" x="120" id="text1285-4" fill="#797979" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
-  <tspan font-size="14" font-weight="400" x="120" y="313" id="tspan1283-3" font-family="Tahoma,'Nimbus Sans L'" fill="#797979" fill-opacity="1">return</tspan>
+ <path id="rect97776" stroke-miterlimit="4" d="M62.87 294.95h45.83v25.94H62.87z" opacity="1" fill="#929292" fill-opacity="1" stroke="none" stroke-width="1" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1"/>
+ <text y="300" x="120" id="text1285-4" fill="#929292" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
+  <tspan font-size="14" font-weight="400" x="120" y="313" id="tspan1283-3" font-family="Tahoma,'Nimbus Sans L'" fill="#929292" fill-opacity="1">return</tspan>
  </text>
- <text id="text982-3" x="192" y="300" fill="#797979" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
-  <tspan id="tspan980-9" y="313" x="192" font-weight="400" font-size="14" font-family="Tahoma,'Nimbus Sans L'" fill="#797979" fill-opacity="1">;</tspan>
+ <text id="text982-3" x="192" y="300" fill="#929292" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
+  <tspan id="tspan980-9" y="313" x="192" font-weight="400" font-size="14" font-family="Tahoma,'Nimbus Sans L'" fill="#929292" fill-opacity="1">;</tspan>
  </text>
  <path id="path104634-8" d="M88 303v13" fill="none" fill-rule="evenodd" stroke="#fff" stroke-width="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1"/>
  <path d="M82 303v13" id="path104632-6" fill="none" fill-rule="evenodd" stroke="#fff" stroke-width="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1"/>
  <path id="path97780" d="M109 250v23" fill="none" fill-opacity="1" stroke="#34302c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.99999999,5.99999994" stroke-opacity="1" marker-end="url(#FilledArrow_Marker_2-1)"/>
  <circle id="ellipse77" cy="308" cx="175" r="11" fill="#6cb33e" fill-opacity="1" stroke="#34302c" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="none" stroke-opacity="1"/>
  <path id="rect97782" stroke-miterlimit="4" d="M333 295h188v28H333z" stroke-dashoffset="0" stroke-dasharray="none" stroke-opacity="1" stroke-width="2" stroke="#000" fill-opacity="1" fill="#fff" opacity="1"/>
- <path id="rect97784" opacity="1" fill="#797979" fill-opacity="1" stroke="none" stroke-width="1" stroke-miterlimit="4" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1" d="M333 295h98v28h-98z"/>
- <text id="text97790" x="442" y="301" fill="#797979" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
-  <tspan id="tspan97788" y="314" x="442" font-weight="400" font-size="14" font-family="Tahoma,'Nimbus Sans L'" fill="#797979" fill-opacity="1">return</tspan>
+ <path id="rect97784" stroke-miterlimit="4" d="M333.67 295.67H431v26.21h-97.33z" opacity="1" fill="#929292" fill-opacity="1" stroke="none" stroke-width="1" stroke-dasharray="none" stroke-dashoffset="0" stroke-opacity="1"/>
+ <text id="text97790" x="442" y="301" fill="#929292" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
+  <tspan id="tspan97788" y="314" x="442" font-weight="400" font-size="14" font-family="Tahoma,'Nimbus Sans L'" fill="#929292" fill-opacity="1">return</tspan>
  </text>
- <text y="301" x="514" id="text97794" fill="#797979" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
-  <tspan font-size="14" font-weight="400" x="514" y="314" id="tspan97792" font-family="Tahoma,'Nimbus Sans L'" fill="#797979" fill-opacity="1">;</tspan>
+ <text y="301" x="514" id="text97794" fill="#929292" fill-opacity="1" stroke="none" stroke-dasharray="none" stroke-opacity="1">
+  <tspan font-size="14" font-weight="400" x="514" y="314" id="tspan97792" font-family="Tahoma,'Nimbus Sans L'" fill="#929292" fill-opacity="1">;</tspan>
  </text>
  <path id="path104634" d="M384 303v13" fill="none" fill-rule="evenodd" stroke="#fff" stroke-width="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1"/>
  <path d="M378 303v13" id="path104632" fill="none" fill-rule="evenodd" stroke="#fff" stroke-width="4" stroke-linecap="butt" stroke-linejoin="miter" stroke-miterlimit="4" stroke-dasharray="none" stroke-opacity="1"/>
