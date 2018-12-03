@@ -8,9 +8,9 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
-   viewBox="20 14 440 471"
+   viewBox="20 14 440 455"
    width="440"
-   height="471"
+   height="455"
    id="svg225"
    sodipodi:docname="createForMono.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06">
@@ -22,6 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -38,37 +39,43 @@
      inkscape:window-height="480"
      id="namedview16806"
      showgrid="false"
-     inkscape:current-layer="svg225" />
+     inkscape:current-layer="svg225"
+     fit-margin-top="5"
+     fit-margin-left="5"
+     fit-margin-right="5"
+     fit-margin-bottom="5" />
   <defs
      id="defs33">
     <marker
        inkscape:isstock="true"
        style="overflow:visible"
        id="marker41345"
-       refX="0.0"
-       refY="0.0"
+       refX="0"
+       refY="0"
        orient="auto"
        inkscape:stockid="DotM">
       <path
-         transform="scale(0.4) translate(7.4, 1)"
-         style="fill-rule:evenodd;stroke:#5b1d88;stroke-width:1pt;stroke-opacity:1;fill:#5b1d88;fill-opacity:1"
-         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
-         id="path41343" />
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         style="fill:#5b1d88;fill-opacity:1;fill-rule:evenodd;stroke:#5b1d88;stroke-width:1.00000003pt;stroke-opacity:1"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path41343"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        inkscape:stockid="DotM"
        orient="auto"
-       refY="0.0"
-       refX="0.0"
+       refY="0"
+       refX="0"
        id="DotM"
        style="overflow:visible"
        inkscape:isstock="true"
        inkscape:collect="always">
       <path
          id="path32183"
-         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
-         style="fill-rule:evenodd;stroke:#5b1d88;stroke-width:1pt;stroke-opacity:1;fill:#5b1d88;fill-opacity:1"
-         transform="scale(0.4) translate(7.4, 1)" />
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         style="fill:#5b1d88;fill-opacity:1;fill-rule:evenodd;stroke:#5b1d88;stroke-width:1.00000003pt;stroke-opacity:1"
+         transform="matrix(0.4,0,0,0.4,2.96,0.4)"
+         inkscape:connector-curvature="0" />
     </marker>
     <marker
        orient="auto"
@@ -79,16 +86,14 @@
        viewBox="-1 -6 14 12"
        markerWidth="14"
        markerHeight="12"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g4">
         <path
-           d="M12 0L0-4v9z"
+           d="M 12,0 0,-4 v 9 z"
            id="path2"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <font-face
@@ -134,16 +139,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g11">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path9"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <font-face
@@ -189,16 +192,14 @@
        viewBox="-1 -6 14 12"
        markerWidth="14"
        markerHeight="12"
-       color="#000"
-       stroke-linejoin="miter">
+       style="color:#000000;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g18">
         <path
-           d="M12 0L0-4v9z"
+           d="M 12,0 0,-4 v 9 z"
            id="path16"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -210,16 +211,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#000"
-       stroke-linejoin="miter">
+       style="color:#000000;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g23">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path21"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <font-face
@@ -265,16 +264,14 @@
        viewBox="-1 -4 9 8"
        markerWidth="9"
        markerHeight="8"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g30">
         <path
-           d="M6 0L0-2v4z"
+           d="M 6,0 0,-2 v 4 z"
            id="path28"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -286,16 +283,14 @@
        viewBox="-1 -6 14 12"
        markerWidth="14"
        markerHeight="12"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g18-3">
         <path
-           d="M12 0L0-4v9z"
+           d="M 12,0 0,-4 v 9 z"
            id="path16-6"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -307,16 +302,14 @@
        viewBox="-1 -6 14 12"
        markerWidth="14"
        markerHeight="12"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g4-6">
         <path
-           d="M12 0L0-4v9z"
+           d="M 12,0 0,-4 v 9 z"
            id="path2-7"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -328,16 +321,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g9-3">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path7-5"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -349,16 +340,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g1092">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path1090"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -370,16 +359,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g1098">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path1096"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -391,16 +378,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g1104">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path1102"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -412,16 +397,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g23-7">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path21-5"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -433,16 +416,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g1113">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path1111"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -454,16 +435,14 @@
        viewBox="-1 -4 9 8"
        markerWidth="9"
        markerHeight="8"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g37">
         <path
-           d="M6 0L0-2v4z"
+           d="M 6,0 0,-2 v 4 z"
            id="path35"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -475,16 +454,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#45b8de"
-       stroke-linejoin="miter">
+       style="color:#45b8de;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g16-6">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path14-7"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -496,16 +473,14 @@
        viewBox="-1 -4 9 8"
        markerWidth="9"
        markerHeight="8"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g1125">
         <path
-           d="M6 0L0-2v4z"
+           d="M 6,0 0,-2 v 4 z"
            id="path1123"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -517,16 +492,14 @@
        viewBox="-1 -4 9 8"
        markerWidth="9"
        markerHeight="8"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g1131">
         <path
-           d="M6 0L0-2v4z"
+           d="M 6,0 0,-2 v 4 z"
            id="path1129"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -538,16 +511,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g1137">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path1135"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -559,16 +530,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g1143">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path1141"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -580,16 +549,14 @@
        viewBox="-1 -6 14 12"
        markerWidth="14"
        markerHeight="12"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g18-3-9">
         <path
-           d="M12 0L0-4v9z"
+           d="M 12,0 0,-4 v 9 z"
            id="path16-6-3"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -601,16 +568,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g1143-7">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path1141-9"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -622,16 +587,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#45b8de"
-       stroke-linejoin="miter">
+       style="color:#45b8de;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g16-6-0">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path14-7-7"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -643,16 +606,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g23-7-8">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path21-5-4"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -664,16 +625,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#45b8de"
-       stroke-linejoin="miter">
+       style="color:#45b8de;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g2510">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path2508"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -685,16 +644,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g2516">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path2514"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -706,18 +663,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#45b8de"
-       stroke-linejoin="miter">
+       style="color:#45b8de;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g4771">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path4769"
-           fill="#5b1d88"
-           fill-opacity="1"
-           stroke="#5b1d88"
-           stroke-width="1"
-           stroke-opacity="1" />
+           inkscape:connector-curvature="0"
+           style="fill:#5b1d88;fill-opacity:1;stroke:#5b1d88;stroke-width:1;stroke-opacity:1" />
       </g>
     </marker>
     <marker
@@ -729,16 +682,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#45b8de"
-       stroke-linejoin="miter">
+       style="color:#45b8de;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g2525">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path2523"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -750,16 +701,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#45b8de"
-       stroke-linejoin="miter">
+       style="color:#45b8de;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g2531">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path2529"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -771,16 +720,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g2537">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path2535"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -792,16 +739,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g2543">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path2541"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -813,18 +758,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#45b8de"
-       stroke-linejoin="miter">
+       style="color:#45b8de;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g4776">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path4774"
-           fill="#5b1d88"
-           fill-opacity="1"
-           stroke="#5b1d88"
-           stroke-width="1"
-           stroke-opacity="1" />
+           inkscape:connector-curvature="0"
+           style="fill:#5b1d88;fill-opacity:1;stroke:#5b1d88;stroke-width:1;stroke-opacity:1" />
       </g>
     </marker>
     <marker
@@ -836,16 +777,14 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g2552">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path2550"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
     <marker
@@ -857,309 +796,178 @@
        viewBox="-1 -5 11 10"
        markerWidth="11"
        markerHeight="10"
-       color="#34302c"
-       stroke-linejoin="miter">
+       style="color:#34302c;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10">
       <g
          id="g23-7-8-1">
         <path
-           d="M8 0L0-3v6z"
+           d="M 8,0 0,-3 v 6 z"
            id="path21-5-4-4"
-           fill="currentColor"
-           stroke="currentColor"
-           stroke-width="1" />
+           inkscape:connector-curvature="0"
+           style="fill:currentColor;stroke:currentColor;stroke-width:1" />
       </g>
     </marker>
   </defs>
   <path
-     d="M116 459h228"
+     d="M 116,443 H 344"
      id="line130"
-     fill="none"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="none"
-     stroke-opacity="1"
-     marker-end="url(#FilledArrow_Marker_3-6-1)" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_3-6-1)" />
   <path
-     d="M27 20h426l1 5v318l-1 5H27l-1-5V25z"
+     d="m 27,20 h 426 l 1,4.749189 V 326.79761 l -1,4.74919 H 27 l -1,-4.74919 V 24.749189 Z"
      id="path83-3"
-     fill="#fff"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="rect2882"
-     opacity="1"
-     fill="#fff"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
      stroke-miterlimit="4"
-     stroke-dasharray="none"
-     stroke-dashoffset="0"
-     stroke-opacity="1"
-     d="M69 269h379v27H69z" />
+     d="m 69,225 h 379 v 27 H 69 Z"
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <ellipse
      id="ellipse1332"
      ry="20"
      rx="21"
-     cy="458"
+     cy="442"
      cx="221"
-     fill="#6cb33e"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
+     style="fill:#6cb33e;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="M221 350v68"
+     d="m 221,334 v 68"
      id="line1349"
-     fill="none"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="2.00000001,5.99999999"
-     stroke-opacity="1"
-     marker-end="url(#FilledArrow_Marker_4-2-5)" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.00000001, 5.99999999;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_4-2-5)" />
   <text
-     y="312"
+     y="300"
      x="202"
      id="text1365"
-     fill="#34302c"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        id="tspan1361"
-       y="334"
+       y="322"
        x="202"
        font-weight="700"
        font-size="24"
-       font-family="Tahoma,'Nimbus Sans L'"
-       fill="#34302c">create</tspan>
+       style="font-weight:700;font-size:24px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c">create</tspan>
   </text>
   <path
-     d="M137 267V113"
+     d="M 137,260.0462 V 113"
      id="line1360"
-     fill="none"
-     fill-opacity="1"
-     stroke="#5b1d88"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="1.99999998,5.99999999"
-     stroke-opacity="1"
-     marker-end="url(#FilledArrow_Marker_3-3e)"
-     style="marker-start:url(#DotM)" />
+     style="fill:none;fill-opacity:1;stroke:#5b1d88;stroke-width:2.22373199;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.22373202, 6.67119612;stroke-opacity:1;marker-start:url(#DotM);marker-end:url(#FilledArrow_Marker_3-3e)"
+     inkscape:connector-curvature="0" />
   <text
      id="text1364"
-     transform="rotate(-90)"
-     x="-262"
-     y="118"
-     fill="#885ba9"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     x="96.018555"
+     y="268.05377"
+     style="fill:#885ba9;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        id="tspan1362"
-       y="131"
-       x="-262"
+       y="281.05377"
+       x="96.018555"
        font-weight="400"
        font-size="14"
-       font-family="Tahoma,'Nimbus Sans L'"
-       fill="#885ba9"
-       fill-opacity="1">addListener</tspan>
+       style="font-weight:400;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';fill:#885ba9;fill-opacity:1">addListener()</tspan>
   </text>
   <path
-     d="M137 455v-88"
+     d="M 137,439 V 351"
      id="line1366"
-     fill="none"
-     fill-opacity="1"
-     stroke="#45b8de"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="2,5.99999996"
-     stroke-opacity="1"
-     marker-end="url(#FilledArrow_Marker_3-3-8)" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#45b8de;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2, 5.99999996;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_3-3-8)" />
   <text
      id="text1370"
      transform="rotate(-90)"
-     x="-448"
+     x="-432"
      y="116"
-     fill="#45b8de"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     style="fill:#45b8de;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        id="tspan1368"
        y="129"
-       x="-448"
+       x="-432"
        font-weight="400"
        font-size="14"
-       font-family="Tahoma,'Nimbus Sans L'"
-       fill="#45b8de">subscribe()</tspan>
+       style="font-weight:400;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';fill:#45b8de">subscribe()</tspan>
   </text>
   <path
-     d="M221 73v178"
+     d="M 221,72.742543 V 205.55883"
      id="line1378"
-     fill="none"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="1.99999999,5.99999998"
-     stroke-opacity="1"
-     marker-end="url(#FilledArrow_Marker_4-2-5)" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.99999998, 5.99999997;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_4-2-5)" />
   <path
-     d="M255 266v-89"
+     d="M 255,260.77454 V 177"
      id="line1384"
-     fill="none"
-     fill-opacity="1"
-     stroke="#5b1d88"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="1.99999994,5.99999993"
-     stroke-opacity="1"
-     marker-end="url(#FilledArrow_Marker_3-34)"
-     style="marker-start:url(#marker41345)" />
+     style="fill:none;fill-opacity:1;stroke:#5b1d88;stroke-width:2.39103842;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.39103838, 7.17311529;stroke-opacity:1;marker-start:url(#marker41345);marker-end:url(#FilledArrow_Marker_3-34)"
+     inkscape:connector-curvature="0" />
   <text
-     y="213"
-     x="-283"
-     transform="matrix(0 -.92253 1.08398 0 0 0)"
+     y="247.30362"
+     x="227.39764"
+     transform="scale(0.92252812,1.0839778)"
      id="text1388"
      font-size="11"
-     fill="#885ba9"
-     fill-opacity="1"
-     stroke="none"
-     stroke-width="1"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     style="font-size:11.00002193px;fill:#885ba9;fill-opacity:1;stroke:none;stroke-width:1.00000203;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        font-size="13"
        font-weight="400"
-       x="-283"
-       y="225"
+       x="227.39764"
+       y="259.30365"
        id="tspan1386"
-       font-family="Tahoma,'Nimbus Sans L'"
-       fill="#885ba9"
-       fill-opacity="1"
-       stroke-width="1">removeListener</tspan>
+       style="font-weight:400;font-size:13.0000267px;font-family:Tahoma, 'Nimbus Sans L';fill:#885ba9;fill-opacity:1;stroke-width:1.00000203">removeListener()</tspan>
   </text>
   <text
      id="text1408-4"
      x="35"
-     y="275"
-     fill="#34302c"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     y="231"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
-       style="-inkscape-font-specification:'Tahoma, Nimbus Sans L, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';-inkscape-font-specification:'Tahoma, Nimbus Sans L, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#34302c;fill-opacity:1"
        id="tspan1406-7"
-       y="288"
+       y="244"
        x="35"
        font-weight="700"
        font-size="14"
        font-style="normal"
        font-variant="normal"
-       font-stretch="normal"
-       font-family="Tahoma,'Nimbus Sans L'"
-       writing-mode="lr-tb"
-       text-anchor="start"
-       fill="#34302c"
-       fill-opacity="1">sink</tspan>
+       font-stretch="normal">sink</tspan>
   </text>
   <path
-     d="M34 302h411"
+     d="M 34,260 H 445"
      id="line130-4"
-     fill="none"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="path70"
-     d="M255 438l2 2v38l-2 2-2-2v-38z"
-     fill="#34302c"
-     fill-opacity="1"
-     stroke="none"
-     stroke-width="1"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
+     d="m 255,422 2,2 v 38 l -2,2 -2,-2 v -38 z"
+     inkscape:connector-curvature="0"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-width:1;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="M256 351v68"
+     d="m 256,335 v 68"
      id="line1349-0"
-     fill="none"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="2.00000001,5.99999999"
-     stroke-opacity="1"
-     marker-end="url(#FilledArrow_Marker_4-2-5-9)" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:2.00000001, 5.99999999;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_4-2-5-9)" />
   <path
      id="path2863-9"
-     d="M364 94h79"
+     d="m 364,94 h 79"
      stroke-miterlimit="4"
-     fill="none"
-     fill-rule="evenodd"
-     stroke="#5b1d88"
-     stroke-width="2"
-     stroke-linecap="butt"
-     stroke-linejoin="miter"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-rule:evenodd;stroke:#5b1d88;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="path2863"
-     d="M123 94h40"
+     d="m 123,94 h 40"
      stroke-miterlimit="4"
-     fill="none"
-     fill-rule="evenodd"
-     stroke="#5b1d88"
-     stroke-width="2"
-     stroke-linecap="butt"
-     stroke-linejoin="miter"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-rule:evenodd;stroke:#5b1d88;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <g
      id="g7770"
-     transform="matrix(1.29915 0 0 1 70 152)"
-     stroke="#5b1d88"
-     stroke-width="2"
+     transform="matrix(1.29915,0,0,1,70,152)"
      stroke-miterlimit="4"
-     stroke-dasharray="none"
-     stroke-opacity="1"
-     fill="none"
-     fill-rule="evenodd"
-     stroke-linecap="butt"
-     stroke-linejoin="miter">
+     style="fill:none;fill-rule:evenodd;stroke:#5b1d88;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
     <path
        id="path7749"
-       d="M71-57s35-41 53-40c19 2 18 18 15 25-4 10-19 15-29 12-11-3-22-18-20-30 2-16 21-31 37-32 37-3 100 65 100 65" />
+       d="m 71,-57 c 0,0 35,-41 53,-40 19,2 18,18 15,25 -4,10 -19,15 -29,12 -11,-3 -22,-18 -20,-30 2,-16 21,-31 37,-32 37,-3 100,65 100,65"
+       style="stroke:#5b1d88;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
     <path
        id="path7749-1"
-       d="M71-57s35 41 53 39c19-1 18-18 15-24-4-10-19-16-29-13-11 4-22 19-20 31 2 16 21 30 37 31 37 3 100-64 100-64" />
+       d="m 71,-57 c 0,0 35,41 53,39 19,-1 18,-18 15,-24 -4,-10 -19,-16 -29,-13 -11,4 -22,19 -20,31 2,16 21,30 37,31 37,3 100,-64 100,-64"
+       style="stroke:#5b1d88;stroke-width:2.00034642;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
   </g>
   <ellipse
      cx="220"
@@ -1168,14 +976,7 @@
      ry="14"
      id="ellipse1297-1"
      stroke-miterlimit="4"
-     fill="#6cb33e"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="1"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
+     style="fill:#6cb33e;fill-opacity:1;stroke:#34302c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <ellipse
      id="ellipse1299-5"
      ry="14"
@@ -1183,14 +984,7 @@
      cy="141"
      cx="296"
      stroke-miterlimit="4"
-     fill="#fff"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="1"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
+     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <ellipse
      cx="322"
      cy="64"
@@ -1198,50 +992,31 @@
      ry="14"
      id="ellipse1301-7"
      stroke-miterlimit="4"
-     fill="#fff"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="1"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
+     style="fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   <text
      x="75"
      y="85"
      id="text8013"
-     fill="#34302c"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        y="98"
        x="75"
        font-weight="400"
        font-size="14"
        id="tspan8015"
-       font-family="Tahoma,'Nimbus Sans L'"
-       fill="#34302c"
-       fill-opacity="1">source</tspan>
+       style="font-weight:400;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;fill-opacity:1">source</tspan>
   </text>
   <text
      x="54"
      y="74"
      id="text8013-1"
-     fill="#34302c"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        y="87"
        x="54"
        font-weight="400"
        font-size="14"
        id="tspan8015-8"
-       font-family="Tahoma,'Nimbus Sans L'"
-       fill="#34302c"
-       fill-opacity="1">multithreaded</tspan>
+       style="font-weight:400;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;fill-opacity:1">multithreaded</tspan>
   </text>
 </svg>

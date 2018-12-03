@@ -1141,40 +1141,31 @@
   <path
      d="M31 20h503l1 4v265l-1 4H31l-1-4V24z"
      id="path83-3"
-     fill="#fff"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
      stroke-dasharray="none"
-     stroke-opacity="1" />
+     stroke-opacity="1"
+     stroke-linejoin="round"
+     stroke-linecap="round"
+     stroke-width="2"
+     stroke="#34302c"
+     fill-opacity="1"
+     fill="#fff" />
+  <path
+     d="M 38,211 H 524"
+     id="line130-4"
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   <path
      id="rect2882"
      stroke-miterlimit="4"
-     d="M73 214h450v27H73z"
-     opacity="1"
-     fill="#fff"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-dasharray="none"
-     stroke-dashoffset="0"
-     stroke-opacity="1" />
+     d="m 73,174 h 450 v 27 H 73 Z"
+     inkscape:connector-curvature="0"
+     style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <path
-     d="M269 92v115"
+     d="M 269,91.627017 V 164.33632"
      id="line1378-1"
      stroke-miterlimit="4"
-     fill="none"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="2.00000017,6.00000047"
-     stroke-dashoffset="0"
-     stroke-opacity="1"
-     marker-end="url(#marker1145-8)" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.00000017, 6.00000046;stroke-dashoffset:0;stroke-opacity:1;marker-end:url(#marker1145-8)" />
   <path
      id="path2863-9"
      d="M381 95h79"
@@ -1367,23 +1358,16 @@
      style="marker-start:url(#DotM)" />
   <text
      id="text1364"
-     transform="rotate(-90)"
-     x="-203"
-     y="120"
-     fill="#885ba9"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     x="100.01855"
+     y="219.91061"
+     style="fill:#885ba9;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        id="tspan1362"
-       y="133"
-       x="-203"
+       y="232.9106"
+       x="100.01855"
        font-weight="400"
        font-size="14"
-       font-family="Tahoma,'Nimbus Sans L'"
-       fill="#885ba9"
-       fill-opacity="1">addListener</tspan>
+       style="font-weight:400;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';fill:#885ba9;fill-opacity:1">addListener()</tspan>
   </text>
   <path
      d="M141 400v-88"
@@ -1448,29 +1432,15 @@
        fill="#45b8de">cancel()</tspan>
   </text>
   <path
-     d="M236 71v125"
+     d="M 236,70.658106 V 153.52157"
      id="line1378"
-     fill="none"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="1.99999996,5.99999991"
-     stroke-opacity="1"
-     marker-end="url(#FilledArrow_Marker_4-2-3)" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.99999995, 5.99999987;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_4-2-3)" />
   <path
-     d="M365 86v109"
+     d="M 365,85.611586 V 154.14908"
      id="line1382"
-     fill="none"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="1.99999986,5.99999957"
-     stroke-opacity="1"
-     marker-end="url(#FilledArrow_Marker_4-2-3)" />
+     inkscape:connector-curvature="0"
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.99999987, 5.9999996;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_4-2-3)" />
   <path
      d="M461 211v-98"
      id="line1384"
@@ -1485,24 +1455,17 @@
      marker-end="url(#FilledArrow_Marker_3-34-0)"
      style="marker-start:url(#marker39651)" />
   <text
-     y="437"
-     x="-205"
-     transform="rotate(-90)"
+     y="219.91061"
+     x="408.21289"
      id="text1388"
-     fill="#885ba9"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     style="fill:#885ba9;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        font-size="14"
        font-weight="400"
-       x="-205"
-       y="450"
+       x="408.21289"
+       y="232.9106"
        id="tspan1386"
-       font-family="Tahoma,'Nimbus Sans L'"
-       fill="#885ba9"
-       fill-opacity="1">removeListener</tspan>
+       style="font-weight:400;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';fill:#885ba9;fill-opacity:1">removeListener()</tspan>
   </text>
   <text
      x="92"
@@ -1552,57 +1515,31 @@
   <text
      id="text1408-4"
      x="39"
-     y="220"
-     fill="#34302c"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     y="180"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
-       style="-inkscape-font-specification:'Tahoma, Nimbus Sans L, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start"
+       style="font-style:normal;font-variant:normal;font-weight:700;font-stretch:normal;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';-inkscape-font-specification:'Tahoma, Nimbus Sans L, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#34302c;fill-opacity:1"
        id="tspan1406-7"
-       y="233"
+       y="193"
        x="39"
        font-weight="700"
        font-size="14"
        font-style="normal"
        font-variant="normal"
-       font-stretch="normal"
-       font-family="Tahoma,'Nimbus Sans L'"
-       writing-mode="lr-tb"
-       text-anchor="start"
-       fill="#34302c"
-       fill-opacity="1">sink</tspan>
+       font-stretch="normal">sink</tspan>
   </text>
-  <path
-     d="M38 247h486"
-     id="line130-4"
-     fill="none"
-     fill-opacity="1"
-     stroke="#34302c"
-     stroke-width="2"
-     stroke-linecap="round"
-     stroke-linejoin="round"
-     stroke-dasharray="none"
-     stroke-opacity="1" />
   <text
      id="text1408-6"
      x="269"
-     y="218"
-     fill="#34302c"
-     fill-opacity="1"
-     stroke="none"
-     stroke-dasharray="none"
-     stroke-opacity="1">
+     y="178"
+     style="fill:#34302c;fill-opacity:1;stroke:none;stroke-dasharray:none;stroke-opacity:1">
     <tspan
        id="tspan1406-4"
-       y="231"
+       y="191"
        x="269"
        font-weight="400"
        font-size="14"
-       font-family="Tahoma,'Nimbus Sans L'"
-       fill="#34302c"
-       fill-opacity="1">...</tspan>
+       style="font-weight:400;font-size:14px;font-family:Tahoma, 'Nimbus Sans L';fill:#34302c;fill-opacity:1">...</tspan>
   </text>
   <text
      x="70"
