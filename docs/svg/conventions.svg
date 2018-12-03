@@ -19,6 +19,50 @@
   <defs
      id="defs12750">
     <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="marker14320"
+       style="overflow:visible"
+       inkscape:isstock="true">
+      <path
+         id="path14318"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#5b1d88;stroke-width:1pt;stroke-opacity:1;fill:#5b1d88;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
+       inkscape:isstock="true"
+       style="overflow:visible"
+       id="marker12870"
+       refX="0.0"
+       refY="0.0"
+       orient="auto"
+       inkscape:stockid="DotM"
+       inkscape:collect="always">
+      <path
+         transform="scale(0.4) translate(7.4, 1)"
+         style="fill-rule:evenodd;stroke:#5b1d88;stroke-width:1pt;stroke-opacity:1;fill:#5b1d88;fill-opacity:1"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         id="path12868" />
+    </marker>
+    <marker
+       inkscape:stockid="DotM"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="DotM"
+       style="overflow:visible"
+       inkscape:isstock="true"
+       inkscape:collect="always">
+      <path
+         id="path32183"
+         d="M -2.5,-1.0 C -2.5,1.7600000 -4.7400000,4.0 -7.5,4.0 C -10.260000,4.0 -12.5,1.7600000 -12.5,-1.0 C -12.5,-3.7600000 -10.260000,-6.0 -7.5,-6.0 C -4.7400000,-6.0 -2.5,-3.7600000 -2.5,-1.0 z "
+         style="fill-rule:evenodd;stroke:#5b1d88;stroke-width:1pt;stroke-opacity:1;fill:#5b1d88;fill-opacity:1"
+         transform="scale(0.4) translate(7.4, 1)" />
+    </marker>
+    <marker
        style="color:#000000;overflow:visible;stroke-linejoin:miter;stroke-miterlimit:10"
        markerHeight="10"
        markerWidth="11"
@@ -3449,6 +3493,8 @@
 
 
 
+
+
  )</tspan>
     </text>
     <path
@@ -3492,19 +3538,19 @@
     <path
        inkscape:connector-curvature="0"
        style="fill:none;fill-opacity:1;stroke:#45b8de;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.52916666, 1.58749999;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_3-3-5)"
-       d="M -153.96528,-71.566498 V -95.114413"
+       d="M -153.96528,-71.037331 V -94.585246"
        id="line1372" />
     <text
        style="font-size:3.17499995px;fill:#45b8de;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-dasharray:none;stroke-opacity:1"
        y="-159.52153"
-       x="73.418625"
+       x="72.889458"
        transform="rotate(-90)"
        id="text1376">
       <tspan
          style="font-weight:400;font-size:3.70416665px;font-family:Tahoma, 'Nimbus Sans L';fill:#45b8de;stroke-width:0.26458332"
          font-size="14"
          font-weight="400"
-         x="73.418625"
+         x="72.889458"
          y="-156.08194"
          id="tspan1374">cancel()</tspan>
     </text>
@@ -3542,22 +3588,21 @@
     </g>
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:#5b1d88;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.52916666, 1.5875;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_3-3e-7-3-3)"
-       d="M -86.555579,-48.610863 V -89.356689"
+       style="fill:none;fill-opacity:1;stroke:#5b1d88;stroke-width:0.52899998;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:0.529, 1.587;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#DotM);marker-end:url(#FilledArrow_Marker_3-3e-7-3-3)"
+       d="M -100.06878,-72.363257 V -89.113875"
        id="line1360-5" />
     <text
        style="font-size:3.17499995px;fill:#5b1d88;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-dasharray:none;stroke-opacity:1"
        id="text1364-9"
-       transform="rotate(-90)"
-       x="58.92963"
-       y="-92.111832">
+       x="-110.91179"
+       y="-68.848518">
       <tspan
          style="font-weight:400;font-size:3.70416665px;font-family:Tahoma, 'Nimbus Sans L';fill:#5b1d88;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1362-2"
-         y="-88.672272"
-         x="58.92963"
+         y="-65.408958"
+         x="-110.91179"
          font-weight="400"
-         font-size="14">addListener</tspan>
+         font-size="14">addListener()</tspan>
     </text>
     <text
        xml:space="preserve"
@@ -4670,6 +4715,8 @@
 
 
 
+
+
  )</tspan>
     </text>
     <path
@@ -4693,6 +4740,8 @@
    id="tspan1293"
    font-weight="700"
    style="font-weight:700;stroke-width:0.26458332">unbounded</tspan>
+
+
 
 
 
@@ -5025,6 +5074,8 @@
          style="font-weight:700;font-size:6.3499999px;font-family:Tahoma, 'Nimbus Sans L';fill:#000000;stroke-width:0.26458332">refCount(<tspan
    style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.93888855px;font-family:Tahoma, 'Nimbus Sans L';-inkscape-font-specification:'Tahoma, Nimbus Sans L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332"
    id="tspan76367">minSubscribers=2</tspan>
+
+
 
 
 
@@ -7392,6 +7443,17 @@
       </tspan>
     </text>
     <text
+       id="text28176"
+       y="251.85503"
+       x="-199.20447"
+       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         id="tspan28174"
+         style="stroke-width:0.26458332px"
+         y="251.85503"
+         x="-199.20447"
+         sodipodi:role="line">Future</tspan></text>
+    <text
        y="238.84738"
        x="-221.55365"
        id="text28165"
@@ -7404,17 +7466,6 @@
          font-size="24"
          style="font-weight:400;font-size:6.3499999px;font-family:Tahoma, 'Nimbus Sans L';fill:#000000;stroke-width:0.26458332">{</tspan>
     </text>
-    <text
-       id="text28176"
-       y="251.85503"
-       x="-199.20447"
-       style="font-style:normal;font-weight:normal;font-size:10.58333302px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       xml:space="preserve"><tspan
-         id="tspan28174"
-         style="stroke-width:0.26458332px"
-         y="251.85503"
-         x="-199.20447"
-         sodipodi:role="line">Future</tspan></text>
     <g
        aria-label=""
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.23333311px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-dasharray:none;stroke-opacity:1"
@@ -8852,45 +8903,25 @@
          style="fill:none;fill-rule:evenodd;stroke:#ef2200;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
     <path
-       inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:#5b1d88;stroke-width:0.52916664;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.52916667, 1.58750002;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_3-3e-7-3-3-2)"
-       d="m 239.91249,-44.364758 v -40.74582"
-       id="line1360-5-3" />
-    <text
-       style="font-size:3.17499995px;fill:#5b1d88;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-dasharray:none;stroke-opacity:1"
-       id="text1364-9-8"
-       transform="rotate(-90)"
-       x="54.683517"
-       y="234.35623">
-      <tspan
-         style="font-weight:400;font-size:3.70416665px;font-family:Tahoma, 'Nimbus Sans L';fill:#5b1d88;fill-opacity:1;stroke-width:0.26458332"
-         id="tspan1362-2-3"
-         y="237.79581"
-         x="54.683517"
-         font-weight="400"
-         font-size="14">addListener</tspan>
-    </text>
-    <path
        style="fill:none;fill-opacity:1;stroke:#45b8de;stroke-width:0.52916682;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:0.52916669, 1.58750004;stroke-opacity:1;marker-start:url(#marker165179)"
        inkscape:connector-curvature="0"
        d="m 362.16431,-120.35863 v 37.45148"
        id="path165173" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:none;fill-opacity:1;stroke:#5b1d88;stroke-width:0.52899997;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_3-3e-7-3-3-4);stroke-miterlimit:4;stroke-dashoffset:0"
+       style="fill:none;fill-opacity:1;stroke:#5b1d88;stroke-width:0.529;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_3-3e-7-3-3-4);stroke-miterlimit:4;stroke-dashoffset:0;marker-start:url(#marker12870)"
        d="M 366.00187,-24.411013 V -120.83385"
        id="line1360-5-37" />
     <text
        style="font-size:3.17499995px;fill:#5b1d88;fill-opacity:1;stroke:none;stroke-width:0.26458332;stroke-dasharray:none;stroke-opacity:1"
        id="text1364-9-6"
-       transform="rotate(-90)"
-       x="24.276815"
-       y="360.44562">
+       x="358.25079"
+       y="-22.163605">
       <tspan
          style="font-weight:400;font-size:3.70416665px;font-family:Tahoma, 'Nimbus Sans L';fill:#5b1d88;fill-opacity:1;stroke-width:0.26458332"
          id="tspan1362-2-32"
-         y="363.88519"
-         x="24.276815"
+         y="-18.724028"
+         x="358.25079"
          font-weight="400"
          font-size="14">connect()</tspan>
     </text>
