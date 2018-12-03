@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -1251,10 +1251,10 @@
      inkscape:connector-curvature="0"
      style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:1.99999988;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.99999996, 5.99999991;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_4-2-3-1)" />
   <path
-     d="M 305.01424,58.633092 V 152.45502"
+     d="M 305.01423,58.742971 V 162.59164"
      id="line1382"
      inkscape:connector-curvature="0"
-     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.99999983, 5.99999951;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_4-2-3-1)" />
+     style="fill:none;fill-opacity:1;stroke:#34302c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:1.99999976, 5.99999931;stroke-opacity:1;marker-end:url(#FilledArrow_Marker_4-2-3-1)" />
   <text
      y="218.43073"
      x="408.22714"
